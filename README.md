@@ -1,4 +1,4 @@
-                 ![alt text](https://swarajya.gumlet.io/swarajya/2017-12/5ba2cbb1-2233-4726-9258-45d8ea9009bb/Prog-languages.jpg?w=732&q=75&compress=true&format=auto)
+![alt text](https://swarajya.gumlet.io/swarajya/2017-12/5ba2cbb1-2233-4726-9258-45d8ea9009bb/Prog-languages.jpg?w=732&q=75&compress=true&format=auto)
 <h1 align="center">Hi 👋, I'm Zeynep Merve Koyuncu</h1>
 <h3 align="center">A passionate front-end developer from Turkiye</h3>
 
