@@ -1,6 +1,6 @@
 ![alt text](https://www.creodive.com.tr/wp-content/uploads/programlama-dilleri-1.jpeg)
 <h1 align="center">Hi 👋, I'm Zeynep Merve Koyuncu</h1>
-<h3 align="center">A passionate front-end developer from Turkiye</h3>
+<h3 align="center">A passionate software developer from Turkiye</h3>
 
 - 🌱 I’m currently learning **Python**
 
